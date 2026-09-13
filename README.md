@@ -4,20 +4,19 @@ A growing collection of projects built throughout my undergraduate certificate i
 
 ## About
 
-This portfolio is developed week over week as I progress through the certificate program, incorporating work from each course as it builds on the last. It's intended as both a working record of skills gained and a reflection I can present upon completing the program.
+This portfolio is developed week over week as I progress through the certificate program, incorporating work from each course as it builds on the last. It's intended as both a working record of skills gained and a reflection I can present upon completing the program. A larger, standalone capstone project — an interactive Power BI dashboard — is planned for a future term and will be featured separately once complete.
 
 ## Projects
 
 | Project | Description | Tools |
 |---|---|---|
 | [SQL + Python Time Series Analysis](projects/01-sql-time-series-analysis) | Full pipeline analyzing retail sales data — SQL querying, database integration, resampling, interpolation, and STL seasonal decomposition | Python, pandas, SQLAlchemy, MySQL, statsmodels, matplotlib |
-| [E-Commerce SQL + Python Pipeline](projects/02-ecommerce-analysis) | End-to-end analysis of e-commerce transactions — SQL retrieval and joins, customer segmentation, monthly sales trend analysis, and price/purchase correlation | Python, pandas, NumPy, SQLAlchemy, MySQL, matplotlib |
 
 *(More projects added as each course progresses.)*
 
-## Additional Coursework
+## Coursework Notebooks
 
-A collection of earlier critical thinking notebooks from MIS410 coursework — covering topics including cohort analysis, time series decomposition, text analysis (VADER/LDA), and anomaly detection — are available in [`projects/`](projects). Full write-ups for these are in progress; in the meantime, each notebook reflects applied, hands-on work built week over week alongside the concepts covered in the [learning log](learning-log).
+A running collection of critical thinking notebooks from MIS410 coursework — covering topics including cohort analysis, time series decomposition, text analysis (VADER/LDA), anomaly detection, and full SQL + Python analytical pipelines — are available in [`projects/`](projects). These reflect hands-on, applied work built week over week alongside the concepts covered in the [learning log](learning-log).
 
 ## Learning Log
 
