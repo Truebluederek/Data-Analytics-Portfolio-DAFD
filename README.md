@@ -8,9 +8,11 @@ This portfolio is developed week over week as I progress through the certificate
 
 ## Projects
 
+## Projects
+
 | Project | Description | Tools |
 |---|---|---|
-| [SQL + Python Time Series Analysis](projects/01-sql-time-series-analysis) | Full pipeline analyzing retail sales data — SQL querying, database integration, resampling, interpolation, and STL seasonal decomposition | Python, pandas, SQLAlchemy, MySQL, statsmodels, matplotlib |
+| [E-Commerce SQL + Python Pipeline](projects/MIS410_Week8.ipynb) | End-to-end analysis of e-commerce transactions — SQL retrieval and joins, customer segmentation, monthly sales trend analysis, and price/purchase correlation | Python, pandas, NumPy, SQLAlchemy, MySQL, matplotlib |
 
 *(More projects added as each course progresses.)*
 
