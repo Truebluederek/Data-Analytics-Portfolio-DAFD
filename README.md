@@ -12,7 +12,7 @@ This portfolio is developed week over week as I progress through the certificate
 
 | Project | Description | Tools |
 |---|---|---|
-| [E-Commerce SQL + Python Pipeline](projects/MIS410_Week8.ipynb) | End-to-end analysis of e-commerce transactions — SQL retrieval and joins, customer segmentation, monthly sales trend analysis, and price/purchase correlation | Python, pandas, NumPy, SQLAlchemy, MySQL, matplotlib |
+| [E-Commerce SQL + Python Pipeline](projects/02-ecommerce-analysis) | End-to-end analysis of e-commerce transactions — SQL retrieval and joins, customer segmentation, monthly sales trend analysis, and price/purchase correlation | Python, pandas, NumPy, SQLAlchemy, MySQL, matplotlib |
 
 *(More projects added as each course progresses.)*
 
